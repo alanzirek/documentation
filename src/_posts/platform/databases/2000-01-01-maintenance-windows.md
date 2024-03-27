@@ -3,7 +3,7 @@ title: Database Maintenance Windows
 nav: Maintenance Windows
 modified_at: 2024-03-27 06:00:00
 tags: databases maintenance
-index: 0
+index: 4
 ---
 
 Database Maintenance Windows is the Scalingo system for scheduling the maintenance needed on your databases. This system automates maintenance operations according to your preferred schedule, minimizing the impact on your application, while facilitating continuous improvement on our side.
